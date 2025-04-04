@@ -7,3 +7,11 @@ Here is some useful script to generate the .docx (MicrosoftWord file) for projec
 python transpose.py <directory> 
 
 ```
+
+If inside the project directory
+
+```shell
+
+python transpose.py
+
+```
